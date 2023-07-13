@@ -1,12 +1,10 @@
-
-/*  * {
-    background-color: aqua; */
+ * {
+    background-color: aqua;
 }
  h1{
     color: rgb(133, 110, 8);
     text-align: center;
- 
- } 
+} 
  button{
     background-color: rgb(189, 101, 177);
     color: aliceblue;
